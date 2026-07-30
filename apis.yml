@@ -1,4 +1,16 @@
 aid: open-government-mexico-datos
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/open-government-mexico-datos.png
 name: Open Government, Mexico
 description: "Mexico Government Open Data"
 url: https://datos.gob.mx/
