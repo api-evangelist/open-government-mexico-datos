@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Mexico
     description: "Mexico Government Open Data"
     humanURL: https://datos.gob.mx/
-    baseURL: https://datos.gob.mx/
     tags:
       - Government
     properties:
